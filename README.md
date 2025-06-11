@@ -1,3 +1,4 @@
 # Meu Projeto
 
-Exemplo de pacote Python com testes.
+Primeiro teste com estrutura de pacote simples
+
